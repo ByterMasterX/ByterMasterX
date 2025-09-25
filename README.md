@@ -31,8 +31,6 @@ Motivated self-starter with a strong desire to learn and grow. Experienced in cu
 </p>
 
 <!-- Boot.dev -->
-[![Boot.dev](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/<YOU>/<GIST_ID>/raw/bootdev.json&style=for-the-badge)](https://boot.dev)
-
-
+![Custom badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ByterMasterX/3175cdbd483b1288cf99163f1b23b607/raw/96eaae13f697ff46cd2133b09c67e71dbf5abfe1/gistfile1.json&style=for-the-badge)
 
 #
