@@ -24,6 +24,6 @@ jobs:
       - name: Push to Gist
         uses: exuanbo/actions-deploy-gist@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_GIST_TOKEN }}
           gist_id: ${{ secrets.GIST_ID }}
           file_path: bootdev.json
