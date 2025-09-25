@@ -1,5 +1,5 @@
 <!-- Page Header -->
-<h1 style="color: #ff6600;"> ByterMasterX (Leo) </h1> 
+<h1 style="color: #ff6600;"> Leonardo Silva - @Dynaris </h1> 
 
 <!-- Role -->
 ![Static Badge](https://img.shields.io/badge/Junior%20Dev%20/%20Senior%20Games%20Support-ba822f?style=for-the-badge)
@@ -26,9 +26,10 @@ Motivated self-starter with a strong desire to learn and grow. Experienced in cu
    style="vertical-align:middle; margin-right: 10px;">
   Stats </h2> 
 
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ByterMasterX&theme=slateorange&show_icons=true&hide_border=true&count_private=true"alt="ByterMasterX's GitHub Stats"/>
-</p>
+<!-- Stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dynaris&show_icons=true&theme=slateorange&hide_border=true)
+<!-- Most used languages - Not being used at the moment || ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynaris&layout=compact&theme=slateorange&hide_border=true) ||  -->
+<!-- Streak - Not being used at the moment || ![GitHub Streak](https://streak-stats.demolab.com?user=Dynaris&theme=slateorange&hide_border=true) ||  -->
 
 <!-- Boot.dev -->
 ![Custom badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ByterMasterX/3175cdbd483b1288cf99163f1b23b607/raw/96eaae13f697ff46cd2133b09c67e71dbf5abfe1/gistfile1.json&style=for-the-badge)
